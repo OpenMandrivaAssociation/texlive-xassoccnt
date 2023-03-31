@@ -1,6 +1,6 @@
 Name:		texlive-xassoccnt
 Version:	61112
-Release:	1
+Release:	2
 Summary:	Associated counters stepping simultaneously
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/xassoccnt
